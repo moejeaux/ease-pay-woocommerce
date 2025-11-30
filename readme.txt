@@ -3,7 +3,7 @@ Contributors: nexflow
 Donate link: https://easepay.xyz
 Tags: usdc, base, coinbase, crypto, payments, stablecoin, card, woocommerce, cryptocurrency, blockchain
 Requires at least: 5.8
-Tested up to: 6.7
+Tested up to: 6.8
 Requires PHP: 7.4
 Stable tag: 1.0.0
 WC requires at least: 7.0
