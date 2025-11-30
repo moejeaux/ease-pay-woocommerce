@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Ease Pay – Pay with USDC or Card on Base
- * Plugin URI:        https://easepay.xyz
+ * Plugin URI:        https://easepay.xyz/woocommerce
  * Description:       Accept instant USDC payments on Base. Customers can pay with wallet or debit/credit card → USDC goes straight to your wallet. Zero custody, 1–2% fees.
  * Version:           1.0.0
  * Author:            NexFlow
